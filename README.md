@@ -130,6 +130,6 @@ ChatPromptTemplate  ──►  Gemini 2.5 Flash Lite (LangChain)  ──►  Pyd
 
 ## Contact
 
-- **GitHub:** [github.com/your-username](https://github.com/Ganeshpithani)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/ganesh-pithani-a91343250/)
+- **GitHub:** [github.com/Ganeshpithani](https://github.com/Ganeshpithani)
+- **LinkedIn:** [linkedin.com/in/Ganeshpithani](https://www.linkedin.com/in/ganesh-pithani-a91343250/)
 - **Email:** ganeshpithani001@example.com
